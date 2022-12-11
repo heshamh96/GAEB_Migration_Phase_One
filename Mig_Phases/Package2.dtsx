@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable
+  DTS:refId="Package" xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ExecutableType="SSIS.Package.3"
+  DTS:CreatorName="DESKTOP-HNSH6FH\Excel"
+  DTS:CreatorComputerName="DESKTOP-HNSH6FH"
+  DTS:CreationDate="5/17/2021 3:51:10 AM"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{61D699D2-1A7D-4E6B-986F-DE2990F99E3E}"
+  DTS:LastModifiedProductVersion="11.0.2100.60"
+  DTS:LocaleID="3073"
+  DTS:ObjectName="Package2"
+  DTS:DTSID="{DF6926BB-81BB-4004-8601-68006DB63486}"
+  DTS:CreationName="SSIS.Package.3">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">6</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LIBGAEB_3.EXCELNEW1"
+  DTS:DTSID="{0EF1276B-7E0C-4634-AB9B-33E8CEF59487}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=EXCELNEW1;Dsn=LIBGAEB_3;system=9.111.111.155;dbq=QGPL;dftpkglib=QGPL;languageid=ENU;pkg=QGPL/DEFAULT(IBM),2,0,1,0,512;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASzLkjKO3JEupf4LDT417ZQAAAAACAAAAAAAQZgAAAAEAACAAAAA98AYKZQYRCWe/PVLNsQ64Xkz1HQ+Knj+Yh8K+qWvbGAAAAAAOgAAAAAIAACAAAAC/2AniHfmqfskD80uALS8aHAa2sbvWoaamW5JlaeyVW3AAAADAjNRE01PEcb9KUG029xzacBEgLzrePG7B0u6eHlLe0bQzPQmU9djeU2jqp8e8hNFWr3N1merN+ZYOQiOgMBDX3UzOGyEZXzWQLPKqKod7ImBfKnyA3ABzbzAI5VBIEwbJ5uK0miGZVn5w5/l5lz1qQAAAAJH6WgiX0egTfcZ70QX9BgN7p0acvDPvbPql/QrqMwGbpVL25DfOTfgIlSxLbm5J5187tYmlIo2tIOC36mPW1zM=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

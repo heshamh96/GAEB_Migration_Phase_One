@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LIB_GAEB"
+  DTS:DTSID="{BB55440E-E0F2-4655-B312-130F6E1C510B}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=excelnew1;Dsn=LIB_GAEB;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASzLkjKO3JEupf4LDT417ZQAAAAACAAAAAAAQZgAAAAEAACAAAABHM/52KbXxj+/iULjNQBdxd6QXPwxozKiAtGwGUib6rQAAAAAOgAAAAAIAACAAAADQEtkICkx/Se5ti8tVLxFV0P6ExYF/sjlIWTSwv0+g+XAAAAAHSXSp00STeo8ypka2RaoaeUvtp+9uj0sUyMf04H4Cawu5EnOVyc3XIhjeP28h19Q3e3Yu82Z56QlOGpbnn2XTx7Njz5BWhDBWhH3wERoKtauskzQOvEIVB7T+dlikLYVXATpRJ/2NMNl9q/3rsS31QAAAAO0OEnEVSi0pLzrfnkD4FomXXGo9GN1sYt1ENf03Dw5LgOYJjpD0dT6wp0EXBCo6YlgA2d6M4u+0AF04BJBokFQ=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

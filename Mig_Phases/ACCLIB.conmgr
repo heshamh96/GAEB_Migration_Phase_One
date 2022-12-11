@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ACCLIB"
+  DTS:DTSID="{86919C41-0231-47E2-962A-A71EFDFEA9B3}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=EXCELNEW1;Dsn=ACCLIB;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASzLkjKO3JEupf4LDT417ZQAAAAACAAAAAAAQZgAAAAEAACAAAAAIJPQr84OW3lfhA2C1T+YIeKqQiYByB0bViwc5Bn9GTAAAAAAOgAAAAAIAACAAAADY+vHWyKTIj1HPj0o1kwPthg7PcnqZKM9ZmbhjI1AdP3AAAADIV8YKhzTK6UuUg29I6gUNl2OUM4imyjbq5t8BxJxHWJwogWvRj6t96IeiznlCxZh5eTdtIlqYw7ldyab6g6w1FiEIeJNGDXIijOeVWJgUk1KItf9e5Maa+n8xJ6hB/TTeZRbSB/KRpC+G/CHpWJOkQAAAACAF5+uiiRkynJr+cOMB505QZOdNwaAiogbDeArljmzqxVkXS4jdtfM08okLinGZFTJblc2FVl8ie2GnoQbYeDY=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

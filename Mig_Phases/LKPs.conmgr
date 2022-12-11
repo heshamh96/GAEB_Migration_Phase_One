@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LKPs"
+  DTS:DTSID="{11EDEC06-A774-441F-93BD-579CF7C1B2F4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-HNSH6FH;User ID=gaeb;Initial Catalog=LKPs;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASzLkjKO3JEupf4LDT417ZQAAAAACAAAAAAAQZgAAAAEAACAAAAC/c5q3eiiPJ8XZOQAaym9NW+ACPebY//yee7h7CDfbCwAAAAAOgAAAAAIAACAAAAB6biRwHpOUeawmj0Ux/XiS8ULJcJrJc2Vr9yfn6fD9SHAAAAD7AEGCjdbFhglx8ipbhSisYQdUzx3S8O9AW2MxlrDfKjxUh+Av2gAwkv6Yl+7JWw0CWiXYZ5gdvQwUUMG/UKWoVoV1446th0fIJM3WVhTtCMfouh1AFvsd/MYsMztggyveWQ86RIBFaqZgpj3/A+slQAAAANSRJVzMiUHZJ5qpDjI3l0MbPKTCUJOzkWU/zc0GnbQ0v3Rc8lXDHUkkfMkaTOtmBOaxvV8UMuLKPpm7lCv3oSs=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
